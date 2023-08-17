@@ -1,0 +1,57 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+
+.secheader{
+    font-size: 18px;
+    color: #71718D;
+
+}
+
+
+
+.listas{
+    display: flex;
+}
+
+h3{
+    font-family: 'Kiwi Maru', sans-serif;
+}
+
+.text-muted{
+    color:#71718D;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.fs-6{
+    color: #0A2FF1;
+}
+
+
+
+.img-thumbnail{
+    border: none;
+    background-color: transparent;
+}
+
+.title{
+    color:#15163D;
+    font-family: 'Kiwi Maru', sans-serif;
+}
+
+
+.subtitulo{
+    font-family: 'Kiwi Maru', sans-serif;
+    color: #15163D;
+}
+
+.article{
+    font-family: 'Open Sans', sans-serif;
+}
